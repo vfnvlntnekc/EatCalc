@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:background="?colorPrimaryDark">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/new_recipe_ingredient_count"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="?colorOnPrimary"
+            android:background="?colorPrimaryVariant"
+            android:hint="@string/count"
+            android:paddingStart="8dp"
+            android:textSize="12sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <TextView
+        android:id="@+id/new_recipe_ingredient_units"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="8dp"
+        android:textColor="?colorOnPrimary"
+        android:textSize="16sp"
+        android:layout_marginVertical="16dp"
+        android:layout_weight="2"/>
+
+    <TextView
+        android:id="@+id/new_recipe_ingredient_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:textSize="16sp"
+        android:textColor="?colorOnPrimary"
+        android:layout_weight="10"
+        android:layout_marginVertical="16dp" />
+
+    <TextView
+        android:id="@+id/clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:layout_gravity="center"
+        app:drawableRightCompat="@drawable/ic_baseline_clear_48"
+        app:drawableTint="?colorOnPrimary"
+        android:layout_weight="0"/>
+
+
+
+</LinearLayout>

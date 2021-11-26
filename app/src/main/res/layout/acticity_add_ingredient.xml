@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="?colorPrimaryDark">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/new_recipe"
+                android:layout_marginEnd="8dp"
+                android:textColor="?colorOnPrimary"
+                android:textSize="24sp" />
+
+            <Spinner
+                android:id="@+id/ingredient_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:background="?colorPrimaryVariant"
+                android:entries="@array/ingredientTypes"
+                android:hint="@string/ingredient_type" />
+
+        </LinearLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="8dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/add_ingredient_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:nextFocusDown="@id/add_ingredient_edit_price"
+                android:maxLines="1"
+                android:background="?colorPrimaryVariant"
+                android:hint="@string/name" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:layout_marginVertical="8dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="3">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/add_ingredient_edit_price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:nextFocusDown="@id/add_ingredient_count"
+                    android:maxLines="1"
+                    android:background="?colorPrimaryVariant"
+                    android:hint="@string/price" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Spinner
+                android:id="@+id/add_ingredient_currency"
+                android:layout_width="0px"
+                android:layout_weight="2"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="16dp"
+                android:background="?colorPrimaryVariant"
+                android:entries="@array/currency"
+                android:paddingVertical="16dp"
+                android:hint="@string/currency" />
+          </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:layout_marginVertical="8dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="3">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/add_ingredient_count"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:nextFocusDown="@id/calories"
+                    android:maxLines="1"
+                    android:background="?colorPrimaryVariant"
+                    android:hint="@string/count" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+
+                <Spinner
+                    android:id="@+id/add_ingredient_units"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:background="?colorPrimaryVariant"
+                    android:entries="@array/units"
+                    android:padding="16dp"
+                    android:hint="@string/units" />
+
+        </LinearLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/calories"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="8dp"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:nextFocusDown="@id/proteins"
+                android:maxLines="1"
+                android:background="?colorPrimaryVariant"
+                android:hint="@string/calories" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:layout_marginVertical="8dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="16dp"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/proteins"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:nextFocusDown="@id/fats"
+                    android:maxLines="1"
+                    android:background="?colorPrimaryVariant"
+                    android:hint="@string/proteins" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/fats"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:nextFocusDown="@id/carbs"
+                    android:maxLines="1"
+                    android:background="?colorPrimaryVariant"
+                    android:hint="@string/fats" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/carbs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:background="?colorPrimaryVariant"
+                    android:hint="@string/carbohydrates" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/save_new_ingredient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:text="@string/save"
+            android:backgroundTint="?colorOnPrimary"
+            android:textColor="?colorPrimaryVariant"/>
+
+    </LinearLayout>
+</ScrollView>

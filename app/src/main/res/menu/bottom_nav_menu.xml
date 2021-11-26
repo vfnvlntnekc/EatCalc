@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item
+        android:id="@+id/navigation_converter"
+        android:icon="@drawable/ic_scale"
+        android:title="@string/converter"/> -->
+
+    <item
+        android:id="@+id/navigation_recipe_menu"
+        android:icon="@drawable/ic_recipes"
+        android:title="@string/recipes" />
+
+    <item
+        android:id="@+id/navigation_add_recipe"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="@string/new_recipe" />
+
+    <item
+        android:id="@+id/navigation_ingredients"
+        android:icon="@drawable/ic_prices"
+        android:title="@string/prices" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/settings" />
+
+</menu>

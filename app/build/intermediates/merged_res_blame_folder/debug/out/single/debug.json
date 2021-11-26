@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_splash_screen.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_second.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_salad.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_salad.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_eatcalc_text.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_eatcalc_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vegetables.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_vegetables.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_cesare.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\cesare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_lines.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\text_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_ingredients.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_edit_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_recipe_ingredient_item.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\recipe_ingredient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_scale.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_ingredients_list_item.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\ingredients_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_recipe.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_add_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_acticity_add_ingredient.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\acticity_add_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ingredients_list.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_ingredients_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_pumpkin_breakfast.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\pumpkin_breakfast.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cake.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_cake.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_prices.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_prices.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_recipe_menu_activity.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\recipe_menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_dranic.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\dranic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_salt.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_salt.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_water.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_cherry.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\cherry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_recipe_ingredients_list_item.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\recipe_ingredients_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_recipe_menu_item.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\recipe_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_snack.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_snack.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_meat.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_meat.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_breakfast.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_breakfast.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_clear_48.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_baseline_clear_48.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_screen.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_cake.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\cake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipes_list.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_recipes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_recipes.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_recipes_list_item.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\recipes_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_eatcalc.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_eatcalc.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_drinks.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_drinks.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_screen.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_chicken_soup.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\chicken_soup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ingredient.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_soup.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\drawable\\ic_soup.xml"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\raw_dish.jpg.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\raw\\dish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\darya\\StudioProjects\\EatCalc\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    }
+]

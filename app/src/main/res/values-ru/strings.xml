@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">EatCalc</string>
+
+    <string name="recipes">Рецепты</string>
+    <string name="prices">Цены</string>
+    <string name="settings">Настройки</string>
+    <string name="converter">Конвертер</string>
+    <string name="open_recipes_book">Открыть книгу рецептов</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="open_converter_data_store">Открыть конвертер</string>
+    <string name="recipe_name">Название рецепта</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="count">Кол-во</string>
+    <string name="units">Единицы</string>
+    <string name="plus_symbol">+</string>
+    <string name="name">Название</string>
+    <string name="cooking_method">Способ приготовления</string>
+    <string name="save">Сохранить</string>
+    <string name="rub">руб.</string>
+    <string name="currency">Валюта</string>
+    <string name="price">Цена</string>
+    <string name="title_activity_ingredients_list">Ингредиенты</string>
+    <string name="no_ingredients_here">Здесь нет ингредиентов</string>
+    <string name="add_ingredient">Добавить ингредиент</string>
+    <string name="new_ingredient">Ингредиент</string>
+    <string name="recipe_type">Тип рецепта</string>
+    <string name="add_recipe">Добавить рецепт</string>
+    <string name="no_recipes_here">Нет рецептов</string>
+    <string name="recipe_not_saved">Рецепт не сохранён</string>
+    <string name="portions">Порции:</string>
+    <string name="ingredient_name">Название ингредиента</string>
+    <string name="ingredient_count_default">0</string>
+    <string name="edit_recipe_ingredients">Редактировать ингредиенты рецепта</string>
+    <string name="for_1">за 1 порцию</string>
+    <string name="field_must_not_be_empty">Заполните поле</string>
+    <string name="input_number">Введите число</string>
+    <string name="recipe_has_no_ingredients">Рецепт без ингредиентов</string>
+    <string name="Ingredient_not_saved_because_it_is_uncompleted">Ингредиент не сохранён: поля не заполнены</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="must_be_positive">Введите положительное</string>
+    <string name="must_be_non_negative">Введите неотрицательное</string>
+    <string name="to_edit">Ред.</string>
+    <string name="cook">Приготовить</string>
+    <string name="new_recipe">Добавить</string>
+    <string name="add_recipe_ingredients">Добавить ингредиенты в рецепт</string>
+    <string name="select_photo">Выбрать изобажение</string>
+    <string name="recipe_photo">Изображение рецепта</string>
+    <string name="calories">Ккал</string>
+    <string name="proteins">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="open_prices_data_store">Открыть базу ингредиентов</string>
+    <string name="energy_value">Энергетическая ценность</string>
+    <string name="carbs">Углеводы</string>
+    <string name="refresh">Обновить</string>
+    <string name="ingredient">Ингредиент</string>
+    <string name="breakfast">Час завтрака</string>
+    <string name="hour">Час</string>
+    <string name="lunch_hour">Час обеда</string>
+    <string name="dinner_hour">Час ужина</string>
+    <string name="switch_themes_for_eating">Менять тему во время приёма пищи</string>
+    <string name="default_breakfast">7</string>
+    <string name="default_lunch">13</string>
+    <string name="default_dinner">18</string>
+    <string name="saved">Сохранено!</string>
+    <string name="default_theme">Стандартная тема</string>
+    <string name="ingredient_type">Тип ингредента</string>
+    <string name="delete_recipe_dialog_title">Удалить рецепт?</string>
+    <string name="delete_ingredient_dialog_title">Удалить ингредиент?</string>
+    <string name="delete_dialog_message">Это действие необратимо</string>
+    <string-array name="units">
+        <item>шт.</item>
+        <item>г</item>
+        <item>кг</item>
+        <item>мл</item>
+        <item>л</item>
+        <item>ст.л.</item>
+        <item>ч.л.</item>
+        <item>стакан</item>
+    </string-array>
+    <string-array name="currency">
+        <item>руб.</item>
+        <item>долл.</item>
+        <item>евро</item>
+    </string-array>
+
+    <string-array name="themesArray">
+        <item>EatCalc</item>
+        <item>Завтрак</item>
+        <item>Обед</item>
+        <item>Ужин</item>
+    </string-array>
+
+    <string-array name="ingredientTypes">
+        <item>Ингредиент</item>
+        <item>Овощ/Фрукт</item>
+        <item>Мясо</item>
+        <item>Жидкость</item>
+        <item>Специя</item>
+    </string-array>
+
+    <string-array name="recipeTypes">
+        <item>Рецепт</item>
+        <item>Завтрак</item>
+        <item>Суп</item>
+        <item>Второе</item>
+        <item>Салат</item>
+        <item>Закуска</item>
+        <item>Десерт</item>
+        <item>Напиток</item>
+    </string-array>
+</resources>

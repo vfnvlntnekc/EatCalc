@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.EatCalcProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimaryDark">@color/nightPrimary</item>
+        <item name="colorPrimary">@color/nightOnPrimary</item>
+        <item name="colorPrimaryVariant">@color/nightPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/nightOnPrimary</item>
+        <item name="colorSecondary">@color/nightRed</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.EatCalcProject.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.EatCalcProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.EatCalcProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.EatCalcProject.Launcher">
+        <item name="android:windowBackground">@drawable/ic_splash_screen</item>
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+    <style name="Theme.EatCalcProject.Red">
+    </style>
+
+    <style name="Theme.EatCalcProject.Yellow">
+    </style>
+
+    <style name="Theme.EatCalcProject.Night">
+    </style>
+</resources>

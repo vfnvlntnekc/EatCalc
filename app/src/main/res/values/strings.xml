@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">EatCalc</string>
+
+    <string name="recipes">Recipes</string>
+    <string name="prices">Prices</string>
+    <string name="settings">Settings</string>
+    <string name="converter">Converter</string>
+    <string name="open_recipes_book">Open recipes book</string>
+    <string name="open_prices_data_store">Open prices data store</string>
+    <string name="open_settings">Open settings</string>
+    <string name="open_converter_data_store">Open converter data store</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="count">Count</string>
+    <string name="units">Units</string>
+    <string name="plus_symbol">+</string>
+    <string name="name">Name</string>
+    <string name="cooking_method">Cooking method</string>
+    <string name="save">Save</string>
+    <string name="rub">RUB</string>
+    <string name="currency">Currency</string>
+    <string name="price">Price</string>
+    <string name="title_activity_ingredients_list">Ingredients</string>
+    <string name="no_ingredients_here">No ingredients here</string>
+    <string name="add_ingredient">Add ingredient</string>
+    <string name="new_ingredient">Ingredient</string>
+    <string name="recipe_type">Recipe type</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="no_recipes_here">No recipes here</string>
+    <string name="recipe_not_saved">Recipe not saved</string>
+    <string name="portions">Portions:</string>
+    <string name="ingredient_name">Ingredient name</string>
+    <string name="ingredient_count_default">0</string>
+    <string name="edit_recipe_ingredients">Edit Recipe Ingredients</string>
+    <string name="for_1">for 1 portion</string>
+    <string name="field_must_not_be_empty">Field must not be empty</string>
+    <string name="input_number">Input number</string>
+    <string name="recipe_has_no_ingredients">Recipe has no ingredients.</string>
+    <string name="Ingredient_not_saved_because_it_is_uncompleted">Ingredient not saved because it is uncompleted</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="must_be_positive">Value must be positive</string>
+    <string name="must_be_non_negative">Value must be non negative</string>
+    <string name="to_edit">Edit</string>
+    <string name="cook">Cook</string>
+    <string name="new_recipe">New</string>
+    <string name="add_recipe_ingredients">Add recipe ingredients</string>
+    <string name="select_photo">Select photo</string>
+    <string name="recipe_photo">Recipe photo</string>
+    <string name="calories">Kcal</string>
+    <string name="proteins">Proteins</string>
+    <string name="fats">Fats</string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="energy_value">Energy value</string>
+    <string name="carbs">Carbs</string>
+    <string name="refresh">Refresh</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="breakfast">Breakfast hour</string>
+    <string name="hour">Hour</string>
+    <string name="lunch_hour">Lunch hour</string>
+    <string name="dinner_hour">Dinner hour</string>
+    <string name="switch_themes_for_eating">Switch themes for eating</string>
+    <string name="default_breakfast">7</string>
+    <string name="default_lunch">13</string>
+    <string name="default_dinner">18</string>
+    <string name="saved">Saved!</string>
+    <string name="default_theme">Default theme</string>
+    <string name="ingredient_type">Ingredient type</string>
+    <string name="delete_recipe_dialog_title">Delete recipe?</string>
+    <string name="delete_ingredient_dialog_title">Delete ingredient?</string>
+    <string name="delete_dialog_message">The action will not be undone</string>
+    <string-array name="units">
+        <item>pc.</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>tablespoon</item>
+        <item>teaspoon</item>
+        <item>cup</item>
+    </string-array>
+    <string-array name="currency">
+        <item>rub</item>
+        <item>usd</item>
+        <item>eur</item>
+    </string-array>
+
+    <string-array name="themesArray">
+        <item>EatCalc</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="ingredientTypes">
+        <item>Ingredient</item>
+        <item>Vegetable</item>
+        <item>Meat</item>
+        <item>Liquid</item>
+        <item>Spices</item>
+    </string-array>
+
+    <string-array name="recipeTypes">
+        <item>Recipe</item>
+        <item>Breakfast</item>
+        <item>Soup</item>
+        <item>Dish</item>
+        <item>Salad</item>
+        <item>Snack</item>
+        <item>Dessert</item>
+        <item>Drink</item>
+    </string-array>
+
+</resources>

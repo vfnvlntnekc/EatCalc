@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="warning_red">#D50000</color>
+    <color name="fon">#C3FDC9</color>
+    <color name="fon2">#235436</color>
+    <color name="redBackground">#ffcdd2</color>
+    <color name="redLight">#FF1744</color>
+    <color name="yellow">#F9FC7A</color>
+    <color name="orange">#ff6d00</color>
+
+    <color name="nightPrimary">#121212</color>
+    <color name="nightOnPrimary">#FFFFFF</color>
+    <color name="nightPrimaryVariant">#000000</color>
+    <color name="nightRed">#cf6679</color>
+</resources>

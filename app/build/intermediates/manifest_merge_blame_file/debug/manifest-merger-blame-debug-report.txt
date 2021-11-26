@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="project.eatcalc"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:7:22-77
+13
+14    <application
+14-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:9:5-24:19
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\Users\darya\.gradle\caches\transforms-3\43121001f1e660aacb267712ebf61120\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@drawable/ic_eatcalc"
+18-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:11:9-44
+19        android:label="@string/app_name"
+19-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:12:9-41
+20        android:requestLegacyExternalStorage="true"
+20-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:10:9-52
+21        android:roundIcon="@drawable/ic_eatcalc"
+21-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:14:9-49
+22        android:screenOrientation="portrait"
+22-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:13:9-45
+23        android:supportsRtl="true"
+23-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:15:9-35
+24        android:theme="@style/Theme.EatCalcProject.Launcher" >
+24-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:16:9-61
+25        <activity android:name="project.eatcalc.MainActivity" >
+25-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:17:9-23:20
+25-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:17:19-62
+26            <intent-filter>
+26-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:18:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:19:17-69
+27-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:19:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:21:17-77
+29-->C:\Users\darya\StudioProjects\EatCalc\app\src\main\AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\darya\.gradle\caches\transforms-3\4bb4ed6e2d61b5230427d3e789e7ddc6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+34            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\darya\.gradle\caches\transforms-3\4bb4ed6e2d61b5230427d3e789e7ddc6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+35            android:authorities="project.eatcalc.lifecycle-process"
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\darya\.gradle\caches\transforms-3\4bb4ed6e2d61b5230427d3e789e7ddc6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+36            android:exported="false"
+36-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\darya\.gradle\caches\transforms-3\4bb4ed6e2d61b5230427d3e789e7ddc6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+37            android:multiprocess="true" />
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\darya\.gradle\caches\transforms-3\4bb4ed6e2d61b5230427d3e789e7ddc6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+38    </application>
+39
+40</manifest>
